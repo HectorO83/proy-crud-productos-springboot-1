@@ -18,5 +18,3 @@
 - Apache 
 - SWAGGER
 - LOMBOK
-
-## OJO EN CONSTRUCCION A medida que vamos avanzando voy comiteando!!
